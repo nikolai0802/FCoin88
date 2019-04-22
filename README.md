@@ -9,3 +9,4 @@ Go to created folder and run:
 
 `yarn run build` || `npm run build` — this will build production bundle, with treeshaking, uglify and all this modern fancy stuff# FCoin
 # FCoin
+# FCoin
